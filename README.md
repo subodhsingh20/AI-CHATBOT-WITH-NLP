@@ -189,3 +189,6 @@ The AI CHATBOT WITH NLP project successfully demonstrates the application of Nat
 
 Whether for education, support, or entertainment, the chatbot can be tailored to a wide range of domains. This project not only strengthened my programming and NLP skills but also provided insight into designing human-centric AI solutions using Python and AI assistance.
 
+
+
+*OUTPUT* :  https://github.com/user-attachments/assets/b3b96f2d-b5d8-4184-8d47-408c95ea4f60
